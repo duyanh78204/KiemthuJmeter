@@ -232,5 +232,7 @@ Kiểm thử phi chức năng là một phần không thể thiếu để đảm
 
 ---
 
+# Sinh viên thực hiện
+Lê Duy Anh - BIT22011 - 22SE1
 
 
