@@ -1,3 +1,7 @@
+
+# Sinh viên thực hiện
+Lê Duy Anh - BIT22011 - 22SE1
+---
 ## Giới thiệu
 Dự án này sử dụng Apache JMeter để đánh giá hiệu suất của một trang web thương mại điện tử thông qua kiểm thử tải (Load Testing) và kiểm thử khả năng chịu tải (Stress Testing).
 
